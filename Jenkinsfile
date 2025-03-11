@@ -6,7 +6,6 @@ pipeline {
             steps {
                 git branch: 'main',
                 url: 'https://github.com/SanjayaSankar/PES2UG22CS502_Jenkins.git'
-                ])
             }
         }
 
